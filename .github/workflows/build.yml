@@ -15,7 +15,7 @@ env:
 jobs:
   build:
 
-    runs-on: ubuntu-latest
+    runs-on: raspberrypi2
 
     steps:
     - uses: actions/checkout@v3
